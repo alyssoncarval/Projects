@@ -31,8 +31,12 @@ I use this space to publish tests of responsive websites that I find on Youtube.
 <img src="https://user-images.githubusercontent.com/100323338/199332459-a86533dc-b124-4786-9a91-c8e23fe64b2b.png">
 </div>
 
+[Manual do Dev](https://www.youtube.com/watch?v=tyVvNj-UvxM) on YouTube.
+
 # Memory Game
 
 <div>
 <img src="https://user-images.githubusercontent.com/100323338/199335069-a1e47d02-c2f0-4fa6-a221-83dc0525b8e4.png">
 </div>
+
+[Manual do Dev](https://www.youtube.com/watch?v=NV88N1r2Qkg) on YouTube.
