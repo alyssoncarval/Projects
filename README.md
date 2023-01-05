@@ -17,14 +17,6 @@ I use this space to publish tests of responsive websites that I find on Youtube.
 
 [Mr. Web Designer](https://www.youtube.com/watch?v=TVFu4-Kd4oM) on YouTube.
 
-# Interactive card
-
-<div>
-<img src="https://user-images.githubusercontent.com/100323338/199316691-4d4258b6-3eca-466d-9049-79ea23436ad8.png">
-</div>
-
-[Frontend Mentor Challenge](https://www.frontendmentor.io/challenges/interactive-card-details-form-XpS8cKZDWw).
-
 # League of Legends Login Screen
 
 <div>
